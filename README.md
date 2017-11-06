@@ -8,8 +8,6 @@ This is a project works with Java and two java-based tools: Jlex and Java Cup. T
 
 # Author: Xianrun Qu (me) & a partner 
 
-For comprehensive information About Each Part of the project please refer to [My WebPage](https://xrsheeran.github.io/Summary_cmp.html)
-
 ## Again, all the codes post here are only the tip of iceburg :). As the following image indicates
 ![FYI](https://xrsheeran.github.io/img/Cmp.PNG?raw=true)
 
